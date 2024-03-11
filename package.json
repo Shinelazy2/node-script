@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "aa-sqlite": "^1.0.29",
+    "nodemon": "^3.1.0",
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  }
+}
